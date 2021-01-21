@@ -124,7 +124,7 @@ def getData(currentTime, gyroRollCorrection, gyroPitchCorrection, gyroYawCorrect
     while(Server_busy==1):
         try:
             s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-            s.connect(('192.168.43.204', 1248))
+            s.connect(('192.xxx.xx.xxx', 1248)) # Put your server IP and Port number here
             Server_busy=0
         except:
             print("Searching for IMU Device...")
