@@ -11,4 +11,4 @@ Load the server code into Raspberry pi and make your PC as client.
 
 Watch this video below for more information. : https://youtu.be/WDkc80XHgts
 
-Don't hesitate to get in touch with me for any clarification. 
+
