@@ -9,7 +9,7 @@ Advantage: You can make your server completly standlone and wireless which means
 
 All you need is a Wifi-router, IP address of the client, Raspberry Pi4, MPU9250 and a Python IDE (I used Pycharm).
 
-Load the server code into Raspberry pi and make your PC as client. 
+Tip : Load the server code into Raspberry pi and make your PC as client. 
 
 Watch this video below for more information. : https://youtu.be/WDkc80XHgts
 
