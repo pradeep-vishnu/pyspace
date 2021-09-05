@@ -1,6 +1,4 @@
-===
-pyspace
-===
+pyspace -- a DIY project for IMU applcations
 
 pyspace is an attempt to create a Python project/package for state of the art algorithms used to find the spatial orientation of objects. 
 
@@ -14,7 +12,7 @@ Socket programming was used to eliminate the power and data cable harness, enabl
 could be adjusted for your application and could be implemented for various application including inverted pendulum projects, stabilty study and many more. Also 
 fell free to play around with the delay values for adjusting the senstivity/sampling rate. 
 
-Advantage: You can make your server completly standlone and wireless which means the cable harness willnot be causing any instablity to your system under study. 
+Advantage: You can make your server completly standlone and wireless which means the cable harness will not be causing any instablity to your system under study. 
 
 All you need is a Wifi-router, IP address of the client, Raspberry Pi4, MPU9250 and a Python IDE (I used Pycharm).
 
