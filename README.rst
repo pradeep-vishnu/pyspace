@@ -1,9 +1,9 @@
 ===
-imu
+pyspace
 ===
 
 
-# IMU--True-Measurement-of-Roll-ptich-and-yaw
+IMU--True-Measurement-of-Roll-ptich-and-yaw
 Filter comparisons, Angle estimations and recording of RAW outputs- using Kalman filters, python and Socket programming. 
 
 
