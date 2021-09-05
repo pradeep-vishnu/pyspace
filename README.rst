@@ -1,4 +1,5 @@
-# pyspace -- a DIY project for IMU applications
+pyspace -- a DIY project for IMU applications
+===========
 
 pyspace is an attempt to create a Python project/package for state of the art algorithms used to find the spatial orientation of objects. 
 
