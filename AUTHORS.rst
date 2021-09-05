@@ -2,4 +2,4 @@
 Contributors
 ============
 
-* Vishnu Pradeep <fixed-term.Vishnu.Pradeep@de.bosch.com>
+* Vishnu Pradeep <mevishnupradeep@gmail.com>
