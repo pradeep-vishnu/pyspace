@@ -19,6 +19,4 @@ All you need is a Wifi-router, IP address of the client, Raspberry Pi4, MPU9250 
 
 Tip : Load the server code into Raspberry pi and make your PC as client. 
 
-Watch this short video for more details of the setup : https://youtu.be/WDkc80XHgts
-
 
